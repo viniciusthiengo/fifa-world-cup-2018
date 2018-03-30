@@ -3,6 +3,12 @@ package thiengo.com.br.fifaworldcup2018.domain
 import java.util.*
 
 
+/*
+ * Conjunto de métodos de extensão para o tipo Date para
+ * facilitar o algoritmo principal que também precisa
+ * imprimir, formatado para humanos, a data e horário dos
+ * jogos da primeira rodada da copa do mundo.
+ * */
 fun Date.getMonthLabel() : String{
     return getHumanLabel( Calendar.MONTH )
 }
