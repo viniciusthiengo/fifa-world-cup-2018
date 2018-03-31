@@ -27,11 +27,11 @@ dependencies {
     implementation 'com.android.support:recyclerview-v7:27.1.0'
 
     // ANDROID STATE
-        implementation 'com.evernote:android-state:1.2.1'
+    implementation 'com.evernote:android-state:1.2.1'
 
-        // Java only project
-        // annotationProcessor 'com.evernote:android-state-processor:1.2.1'
+    // Para projeto somente em Java
+    // annotationProcessor 'com.evernote:android-state-processor:1.2.1'
 
-        // Kotlin with or without Java
-        kapt 'com.evernote:android-state-processor:1.2.1'
+    // Para projeto Kotlin com ou sem Java
+    kapt 'com.evernote:android-state-processor:1.2.1'
 }

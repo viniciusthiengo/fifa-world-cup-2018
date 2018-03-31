@@ -132,7 +132,7 @@ class Database {
          * Método responsável por converter a data do jogo em milissegundos,
          * pois essa é a entrada aceita em Date.
          * */
-        private fun inMilliseconds(day: Int, hourOfDay: Int, minute: Int) : Long {
+        fun inMilliseconds(day: Int, hourOfDay: Int, minute: Int) : Long {
             val calendar = Calendar.getInstance()
             calendar.set(2018,6,day,hourOfDay,minute)
             return calendar.timeInMillis

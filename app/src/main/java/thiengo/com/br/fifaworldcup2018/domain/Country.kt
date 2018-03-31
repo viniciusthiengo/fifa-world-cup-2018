@@ -4,7 +4,7 @@ import android.os.Parcel
 import android.os.Parcelable
 
 class Country(
-        val name: String,
+        var name: String,
         val flagResource: Int) : Parcelable {
     constructor(source: Parcel) : this(
             source.readString(),
