@@ -6,7 +6,7 @@ API utilizada no Android para, de maneira simples, reter estados de objetos cont
 
 <img src="https://www.thiengo.com.br/img/post/normal/em52iabm8hbqsfustj00dj4l27cd1d7e51bb57cfb2746f3004c5f1c3d0.gif" width="350" alt="Animação aplicativo com Android-State em uso">
 
-O conteúdo do artigo também está disponível em [vídeos](https://www.thiengo.com.br/como-reter-objetos-utilizando-android-state-api#title-29) e em [slides](https://www.thiengo.com.br/como-reter-objetos-utilizando-android-state-api#title-28).
+O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/como-reter-objetos-utilizando-android-state-api#title-29) e em [slides](https://www.thiengo.com.br/como-reter-objetos-utilizando-android-state-api#title-28).
 
 ### Primeira parte
 
